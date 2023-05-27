@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\F\bin\Debug\net7.0\F.exe
+C:\Users\LENOVO\Desktop\F\bin\Debug\net7.0\F.deps.json
+C:\Users\LENOVO\Desktop\F\bin\Debug\net7.0\F.runtimeconfig.json
+C:\Users\LENOVO\Desktop\F\bin\Debug\net7.0\F.dll
+C:\Users\LENOVO\Desktop\F\bin\Debug\net7.0\F.pdb
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\F.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\F.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\F.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\F.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\F.dll
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\refint\F.dll
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\F.pdb
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\F.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\F\obj\Debug\net7.0\ref\F.dll
