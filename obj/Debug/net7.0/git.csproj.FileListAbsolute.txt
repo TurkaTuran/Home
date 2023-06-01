@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\git\bin\Debug\net7.0\git.exe
+C:\Users\LENOVO\Desktop\git\bin\Debug\net7.0\git.deps.json
+C:\Users\LENOVO\Desktop\git\bin\Debug\net7.0\git.runtimeconfig.json
+C:\Users\LENOVO\Desktop\git\bin\Debug\net7.0\git.dll
+C:\Users\LENOVO\Desktop\git\bin\Debug\net7.0\git.pdb
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\git.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\git.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\git.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\git.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\git.dll
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\refint\git.dll
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\git.pdb
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\git.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\git\obj\Debug\net7.0\ref\git.dll
