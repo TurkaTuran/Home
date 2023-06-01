@@ -56,4 +56,5 @@ int[] arr = AllCounter2(8);
 for(int j = 0; j < 8; j++)
 {
     Console.Write($"{arr[j]}, ");
+    
 }
